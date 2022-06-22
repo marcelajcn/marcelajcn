@@ -2,6 +2,7 @@
 
 
 - 🌱 Estudando analise e desenvolvimento de sistemas
+- 🌱 Desenvolvedora Front-End
 - 📫 contate me no e-mail: hdsmar27@gmail.com 
 -  ☎️ 11 981291784
 - 😄 Pronouns: ela/dela
