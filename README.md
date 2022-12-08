@@ -9,7 +9,9 @@
 - 😄 Pronomes : ela/dela
 
 
-
+<div align="center">
+<img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marcelajcn&theme=dracula"/> 
+ <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelajcn&theme=dracula&hide_border=true"/>
 
 
 
