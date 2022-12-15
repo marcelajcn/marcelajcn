@@ -3,6 +3,7 @@
 
 - 🌱  Atualmente estudando análise e desenvolvimento de sistemas na faculdade Unidrummond em SP-Capital
 - 🌱  Busco sempre me desenvolver, aprendendo novas tecnologias para que no futuro possa me tornar dev front end.
+- 🎮 Gosto de ver séries e filmes no meu tempo livre
 - 🎮  Sou apaixonada por jogos, seja online ou de console até mesmo jogos de tabuleiro.
 - 📫  Pode me contatar através do e-mail: hdsmar27@gmail.com 
 -  ☎️ O meu número de telefone celular é: (11) 981291784
