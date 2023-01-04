@@ -15,6 +15,9 @@
  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelajcn&theme=dracula&hide_border=true"/>
 </div>
 
+![Marcela GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelajcn&show_icons=true&theme=dracula&hide)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelajcn&layout=compact)](https://github.com/marcelajcn/github-readme-stats=true&show_icons=true&theme=dracula&hide)
 
 
 
