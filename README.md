@@ -50,6 +50,8 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/marcelajcn/count.svg" />
 </p>
+
+![snake gif](https://github.com/marcelajcn/marcelajcn/blob/output/github-contribution-grid-snake.svg)
    
   
  
