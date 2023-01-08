@@ -17,7 +17,10 @@
 
 ![Marcela GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelajcn&show_icons=true&theme=dracula&hide)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelajcn&layout=compact)](https://github.com/marcelajcn/github-readme-stats=true&show_icons=true&theme=dracula&hide)
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelajcn&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 
 
