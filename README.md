@@ -46,9 +46,11 @@
  </a>    <img align="right" alt="bunny-pic" height="150" style="border-radius:50px;" src="https://th.bing.com/th/id/R.22bb27b4899001c83b0282a84f692c8a?rik=%2f9UfLlRFSYc9uQ&riu=http%3a%2f%2fpa1.narvii.com%2f6415%2f77158f5c30a1fb4d3c3e6d4e9c5e1462cb23f9dc_00.gif&ehk=ZqDqL6tYnlOJNT4aYFeHAZGnwI%2fo5UM%2bxihyLi%2b1vn4%3d&risl=&pid=ImgRaw&r=0?width=676&height=676">
 </div>
 
-
-     
- 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/marcelajcn/count.svg" />
+</p>
+   
   
   ![Snake animation](https://github.com/marcelajcn/marcelajcn/blob/output/github-contribution-grid-snake.svg)
 
