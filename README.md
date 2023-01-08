@@ -52,8 +52,7 @@
 </p>
    
   
-  ![Snake animation](https://github.com/marcelajcn/marcelajcn/blob/output/github-contribution-grid-snake.svg)
-
+ 
 
 
  
