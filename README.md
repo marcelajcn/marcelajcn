@@ -1,6 +1,6 @@
 # 👋 Oi! Eu sou a Marcela! 🐹💜
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **UniDrummond — SP**
+🎓Formada em  **Análise e Desenvolvimento de Sistemas** na **UniDrummond — SP**
 💻 Em constante aprendizado e construindo meu caminho para me tornar uma **desenvolvedora Front-End**.
 
 Atualmente estou explorando tecnologias de desenvolvimento web e buscando transformar cada novo conhecimento em projetos práticos. 🚀
